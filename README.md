@@ -1,7 +1,5 @@
 ## Olá, eu sou o Junior! 👋
 
-Meu nome é Junior, tenho 19 anos e sou apaixonado por desenvolvimento de aplicativos móveis. Atualmente, estou estudando na Alura o desenvolvimento mobile com Kotlin e estou sempre procurando aprender mais sobre essa área.
-
 ### 💻 Tecnologias
 
 Estou trabalhando com as seguintes tecnologias:
