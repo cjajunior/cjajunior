@@ -15,6 +15,8 @@ Aqui estão alguns dos meus projetos mais recentes:
 - [🏢 **Orgs**](https://github.com/cjajunior/Orgs): um aplicativo para gerenciamento de organizações desenvolvido em Kotlin.
 - [📇 **CartaoDeVisita**](https://github.com/cjajunior/CartaoDeVisita): um aplicativo para criação de cartões de visita desenvolvido em Kotlin.
 - [🐍 **Python Logica de Programação**](https://github.com/cjajunior/python-logica-de-programacao): um repositório com exercícios resolvidos de lógica de programação em Python.
+- [🌆 **TownTrove**](https://github.com/cjajunior/TownTrove): um aplicativo em desenvolvimento para descoberta de Indaiatuba.
+
 
 Sinta-se à vontade para explorar meus repositórios para ver mais projetos e códigos que desenvolvi.
 
