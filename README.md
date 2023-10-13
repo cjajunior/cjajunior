@@ -16,6 +16,9 @@ Aqui estão alguns dos meus projetos mais recentes:
 - [📇 **CartaoDeVisita**](https://github.com/cjajunior/CartaoDeVisita): um aplicativo para criação de cartões de visita desenvolvido em Kotlin.
 - [🐍 **Python Logica de Programação**](https://github.com/cjajunior/python-logica-de-programacao): um repositório com exercícios resolvidos de lógica de programação em Python.
 - [🌆 **TownTrove**](https://github.com/cjajunior/TownTrove): um aplicativo em desenvolvimento para descoberta de Indaiatuba.
+- [⚽ **Sports**](https://github.com/cjajunior/Sports): um projeto relacionado a esportes.
+- [📱 **Android Compose Training Reply App**](https://github.com/cjajunior/android-compose-training-reply-app): um aplicativo de treinamento com Compose para Android.
+
 
 
 Sinta-se à vontade para explorar meus repositórios para ver mais projetos e códigos que desenvolvi.
