@@ -15,9 +15,24 @@ I build and fix web applications that help small businesses manage appointments,
 - Responsive business websites and landing pages
 - Admin dashboards and data visualization
 - Supabase authentication, database, and Row Level Security
+- Client portals with role-based access for teams and their customers
 - Booking systems, forms, and small business automations
 
 ## Featured projects
+
+### [Atrium](https://atrium-client-portal.vercel.app) · live demo · [source code](https://github.com/cjajunior/atrium)
+
+Client portal for small agencies: projects, requests, and billing in one place, with three roles (admin, team, and client).
+
+**Highlights:**
+
+- Access enforced by Postgres Row Level Security, so a client only ever receives their own company's data
+- Internal notes for the agency team that never reach the client's browser
+- Pro plan with Stripe Checkout, the billing portal, and a signed webhook
+- Automated tests that sign in as each role against a real Postgres
+- One-click demo accounts for each role, reset every hour
+
+**Stack:** Next.js 16, TypeScript, Supabase (Auth, RLS, pg_cron), Stripe, Tailwind CSS, Vitest, and Vercel
 
 ### [Leon Barber Shop](https://leon-barbearia.vercel.app) · live
 
@@ -57,6 +72,7 @@ Management app for freelancers and small service businesses: clients (CRM), proj
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
